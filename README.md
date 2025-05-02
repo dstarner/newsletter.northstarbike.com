@@ -1,6 +1,6 @@
-# dan.taxi
+# newsletter.northstarbike.com
 
-My own lil URL shortener
+Friendly URL generator for Northstar Bike newsletters.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/97d21626-4a0e-4a5b-b658-9f559133e4aa/deploy-status)](https://app.netlify.com/sites/dan-taxi/deploys)
 
