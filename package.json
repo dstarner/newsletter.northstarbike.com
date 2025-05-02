@@ -1,10 +1,10 @@
 {
-  "baseUrl": "https://cass.run",
+  "baseUrl": "https://newsletter.northstarbike.com",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
   },
-  "author": "cassidoo",
+  "author": "dstarner",
   "devDependencies": {
     "netlify-shortener": "^2.4.0"
   }
